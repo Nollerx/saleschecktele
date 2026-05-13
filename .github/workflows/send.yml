@@ -1,0 +1,66 @@
+name: Send to Telegram
+
+on:
+  push:
+    paths:
+      - 'outbox/**'
+
+concurrency:
+  group: telegram-relay
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send queued messages
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -e
+          shopt -s nullglob
+          files=(outbox/*.txt)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No new outbox messages."
+            exit 0
+          fi
+          mkdir -p sent
+          for f in "${files[@]}"; do
+            echo "Sending: $f"
+            HTTP=$(curl -s -o /tmp/resp.json -w "%{http_code}" -X POST \
+              "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+              -d "chat_id=${CHAT}" \
+              --data-urlencode "text@${f}" \
+              -d "parse_mode=Markdown")
+            if [ "$HTTP" != "200" ]; then
+              echo "FAIL ($HTTP) for $f:"
+              cat /tmp/resp.json
+              # retry without markdown in case formatting broke it
+              HTTP2=$(curl -s -o /tmp/resp.json -w "%{http_code}" -X POST \
+                "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+                -d "chat_id=${CHAT}" \
+                --data-urlencode "text@${f}")
+              if [ "$HTTP2" != "200" ]; then
+                echo "FAIL again ($HTTP2). Leaving $f in outbox."
+                continue
+              fi
+            fi
+            mv "$f" "sent/$(basename "$f")"
+          done
+
+      - name: Commit moved files
+        run: |
+          git config user.name "telegram-relay-bot"
+          git config user.email "bot@telegram-relay.local"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "send: process outbox -> sent"
+            git push
+          fi

@@ -1,0 +1,72 @@
+name: Poll Telegram
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: telegram-relay
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Poll for new updates
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -e
+          mkdir -p inbox state
+          OFFSET=$(cat state/offset.txt 2>/dev/null || echo "0")
+          curl -s "https://api.telegram.org/bot${TOKEN}/getUpdates?offset=${OFFSET}&timeout=5" > /tmp/updates.json
+          python3 <<'PY'
+          import json, os, datetime, pathlib
+          with open('/tmp/updates.json') as f:
+              data = json.load(f)
+          if not data.get('ok'):
+              print('Telegram error:', data)
+              raise SystemExit(0)
+          updates = data.get('result', [])
+          if not updates:
+              print('No new updates.')
+              raise SystemExit(0)
+          chat_id = os.environ['CHAT']
+          max_id = 0
+          saved = 0
+          for u in updates:
+              max_id = max(max_id, u['update_id'])
+              msg = u.get('message') or u.get('edited_message')
+              if not msg:
+                  continue
+              if str(msg['chat']['id']) != chat_id:
+                  continue
+              if msg.get('from', {}).get('is_bot'):
+                  continue
+              ts = datetime.datetime.fromtimestamp(msg['date']).strftime('%Y%m%d-%H%M%S')
+              fn = f"inbox/{ts}-{u['update_id']}.json"
+              with open(fn, 'w') as f:
+                  json.dump(msg, f, indent=2)
+              saved += 1
+          with open('state/offset.txt', 'w') as f:
+              f.write(str(max_id + 1))
+          print(f"Saved {saved} new messages. New offset: {max_id + 1}")
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "telegram-relay-bot"
+          git config user.email "bot@telegram-relay.local"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "poll: ingest telegram updates"
+            git push
+          fi
