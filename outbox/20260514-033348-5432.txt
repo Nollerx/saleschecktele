@@ -1,0 +1,33 @@
+*VTO SALES SPRINT — DAY 2 — 2026-05-14*
+
+No metrics report last night — just a smoke test ping. That's a miss. Day 1 of the sprint and you already skipped the reply line. This is exactly the slide you asked me to call out. Today resets at zero — I need the full metrics line tonight, not a "test."
+
+One question before Block 1: did you actually run yesterday's outbound, or did the day evaporate? Either way, answer with numbers tonight.
+
+*BLOCK 1 — Outbound (90 min)*
+- Pull 30 new women's fashion Shopify stores
+- Personalize each: founder name + 1 specific detail
+- 15 IG DMs (lead with returns/fit problem, not product)
+- 15 cold emails (subject = their store name)
+- Log every touch in tracker
+
+*BLOCK 2 — Warm + Local (60 min)*
+- Follow up with Kaizen
+- 1 local boutique walk-in (today or scheduled this week)
+- Message 2 warm leads with something new
+- Reply to outbound responses — speed wins
+
+*BLOCK 3 — Rewrite App Store copy (60 min)*
+- Headline + subhead rewrite focused on returns/fit problem, not features
+- First 3 screenshots' captions
+- One concrete before/after social-proof line (even if from beta)
+- No code. No dashboard tweaks. Copy only.
+
+*BLOCK 4 — Sharpen the Saw (30 min)*
+- Review yesterday's numbers (or admit there were none)
+- Identify THE ONE bottleneck
+- Tomorrow's #1 priority
+- Update Obsidian daily note
+
+*Reply tonight:*
+DMs: __/15 | Emails: __/15 | Replies: __ | Meetings: __ | Walk-ins: __ | Demo task: Y/N | Bottleneck: __
