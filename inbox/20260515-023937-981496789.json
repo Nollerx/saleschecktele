@@ -1,0 +1,20 @@
+{
+  "message_id": 10,
+  "from": {
+    "id": 7653222081,
+    "is_bot": false,
+    "first_name": "Andrew",
+    "last_name": "Noller",
+    "username": "nollerx",
+    "language_code": "en"
+  },
+  "chat": {
+    "id": 7653222081,
+    "first_name": "Andrew",
+    "last_name": "Noller",
+    "username": "nollerx",
+    "type": "private"
+  },
+  "date": 1778812777,
+  "text": "Today I worked on onboarding:\n\n1. I sent a text message to Kaisen asking him to hop on a call to see if we are going to continue and launch into his other stores, and if he is going to renew.\n2. I am working on my Shopify. I redid all the Shopify images and I am currently working on the onboarding flow so that when someone finds it organically, they go through the flow and convert into a paying customer.\n3. I sent two DMs.\n4. I got a list of 200 clothing stores that I will use tomorrow.\n\nMy bottleneck today was time because I had school."
+}
