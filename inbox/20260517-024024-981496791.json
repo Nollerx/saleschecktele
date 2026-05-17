@@ -1,0 +1,40 @@
+{
+  "message_id": 14,
+  "from": {
+    "id": 7653222081,
+    "is_bot": false,
+    "first_name": "Andrew",
+    "last_name": "Noller",
+    "username": "nollerx",
+    "language_code": "en"
+  },
+  "chat": {
+    "id": 7653222081,
+    "first_name": "Andrew",
+    "last_name": "Noller",
+    "username": "nollerx",
+    "type": "private"
+  },
+  "date": 1778985624,
+  "video_note": {
+    "duration": 16,
+    "length": 400,
+    "thumbnail": {
+      "file_id": "AAMCAQADGQEAAw5qCSqYJ_ACqmAmfX2FmltMUrZaTAACXAgAAuzKUETY2UCYLbBJggEAB20AAzsE",
+      "file_unique_id": "AQADXAgAAuzKUERy",
+      "file_size": 16789,
+      "width": 320,
+      "height": 320
+    },
+    "thumb": {
+      "file_id": "AAMCAQADGQEAAw5qCSqYJ_ACqmAmfX2FmltMUrZaTAACXAgAAuzKUETY2UCYLbBJggEAB20AAzsE",
+      "file_unique_id": "AQADXAgAAuzKUERy",
+      "file_size": 16789,
+      "width": 320,
+      "height": 320
+    },
+    "file_id": "DQACAgEAAxkBAAMOagkqmCfwAqpgJn19hZpbTFK2WkwAAlwIAALsylBE2NlAmC2wSYI7BA",
+    "file_unique_id": "AgADXAgAAuzKUEQ",
+    "file_size": 2131568
+  }
+}
