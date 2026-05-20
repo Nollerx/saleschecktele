@@ -1,0 +1,62 @@
+{
+  "message_id": 20,
+  "from": {
+    "id": 7653222081,
+    "is_bot": false,
+    "first_name": "Andrew",
+    "last_name": "Noller",
+    "username": "nollerx",
+    "language_code": "en"
+  },
+  "chat": {
+    "id": 7653222081,
+    "first_name": "Andrew",
+    "last_name": "Noller",
+    "username": "nollerx",
+    "type": "private"
+  },
+  "date": 1779309970,
+  "text": "I did five cold calls today. I have a couple that are warm that I\u2019ll give you their contacts in one second I sent a bunch of TikTok DM\u2019s. I\u2019d say about 10 then I haven\u2019t made TikTok\u2019s yet. Here are the leads Karadise Boutique - (469) 340-3851 - I talked to Addison and she says that Madeline will be opening tomorrow, so I have to call back early tomorrow.\n\nMaddlyn manager\n\naddison store clerk\u00a0\n\n\nOliveUs Boutique -\u00a0\n\nAlissa\n\n\n\nCYNTHIA ELLIOT BOUTIQUE - I spoke with Sonja, and she was very nice. She thought the virtual trial was a great idea, so she gave me an email address to pass on to the owner.\n\nIt seems like a good contact. The only potential issue is if she doesn't see the email; if it goes cold, I'll make sure to call her back.\n\n\ncynthiaelliotboutique@gmail.com\n\nDistinctively Her -\n\n\\ I spoke with Ella; she didn't seem to know anything about the virtual trial. She mentioned that I can email the manager, but the manager won't be back in the store for another week.\n\nThe website is good, but who knows? I only have the email\n\n\ndawn@distinctivelyhers.com\u00a0\n\nella 1 week\nToday\u2019s only halfway over there so we still got a lot more to go",
+  "entities": [
+    {
+      "offset": 208,
+      "length": 19,
+      "type": "bold"
+    },
+    {
+      "offset": 398,
+      "length": 19,
+      "type": "bold"
+    },
+    {
+      "offset": 429,
+      "length": 25,
+      "type": "bold"
+    },
+    {
+      "offset": 744,
+      "length": 31,
+      "type": "email"
+    },
+    {
+      "offset": 744,
+      "length": 31,
+      "type": "underline"
+    },
+    {
+      "offset": 777,
+      "length": 17,
+      "type": "bold"
+    },
+    {
+      "offset": 1043,
+      "length": 26,
+      "type": "email"
+    },
+    {
+      "offset": 1043,
+      "length": 26,
+      "type": "underline"
+    }
+  ]
+}
