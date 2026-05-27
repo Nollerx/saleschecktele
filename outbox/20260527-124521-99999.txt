@@ -1,0 +1,65 @@
+*VTO SALES SPRINT — DAY 15 — 2026-05-27*
+
+Andrew. Day 7 of silence.
+
+Yesterday I told you every warm lead was dying and that this was the make-or-break check-in. You didn't reply. No metrics. No "I read it." Nothing. The relay's most recent message from you is still 2026-05-20 — the half-finished cold-call dump from the afternoon you went dark.
+
+Math: sprint is 110 days, you're on day 15, and you've worked zero of the last 7. That's a 47% no-show rate already, and the gap doesn't close — you have 96 days left to get from $0 to $10K MRR. Every silent day makes the daily number bigger, not smaller.
+
+You're the founder selling VTO to women's fashion brands on Shopify. Right now, that title is theoretical. The only thing the data shows is a guy who set up the relay, made one push, and disappeared. That's not "dev-coping" — that's just not doing it.
+
+Two questions, answer both tonight, even if the answer is ugly:
+  1. What actually happened the last 7 days? (Not vibes — facts. Were you sick? Selling? Avoiding? Doing client work? Spinning on product?)
+  2. Are you still in this sprint, yes or no? If yes, prove it with metrics tonight. If no, say so and we shut the daily check-in down.
+
+No middle answer. "I've been busy" is a no.
+
+*⚠️ COLD-LEAD WARNINGS — most are now dead, treat as fresh cold opens*
+- *Marcos / Kaizen (only paid customer):* 7 days no check-in. Drop status still unknown. Your case study is gone unless you confirm TODAY.
+- *Lindsay Corrigan (agency partner — highest leverage):* 11 days no follow-up. Write her off tonight or send the Calendly + agency reframe.
+- *World's Need Fashion:* 11 days. Said yes to a call you never scheduled. Calendly or write off.
+- *Lily Claire, Sarah / Willow House:* 7 days late. WAS warm. Email anyway with an honest apology — not "circling back."
+- *Karadise (Maddlyn), Ella Bleu (Milissa), Hemline (Ava Lesly):* 7 days late on callbacks. Re-introduce yourself as if it's the first call.
+- *Cynthia Elliot:* Sonja callback is 3 days overdue. Call her.
+- *Crystal Sands, Morning Lavender, Defiant:* 10-12 days flagged. Founder DMs still never sent.
+- *Distinctively Her — Dawn is back in store TODAY (5/27).* Email dawn@distinctivelyhers.com BEFORE you do anything else this morning so it's there when she opens her inbox.
+
+*📅 CALENDAR*
+⚠️ No Calendar MCP available this session — couldn't pull events. Tell me what's on the books today/tomorrow and I'll factor it in.
+
+*BLOCK 1 — TikTok (90 min) — PRIMARY*
+- Post 2-3 TikToks. You haven't posted ONCE since the sprint started — TikTok was supposed to be the leverage channel.
+- Engage on 30 women's fashion / Shopify creator comments
+- Reply to any commenter from the last week — there must be something
+- Save any commenter running a store → add to leads.csv
+
+*BLOCK 2 — Warm Leads + Calendar (60 min) — DO THIS FIRST TODAY*
+1. Email Dawn at dawn@distinctivelyhers.com — TODAY, before noon
+2. Marcos: confirm the 5/22 drop, get a yes/no, get the case study or close the trial
+3. Sarah / Willow House: email emma.cauley@shopwhb.com with apology + Loom
+4. Lindsay: Calendly + agency-partner reframe (final attempt, write off tomorrow if no reply)
+5. World's Need: Calendly (same — final attempt)
+6. Karadise, Ella Bleu, Hemline: re-open the callbacks, treat as cold
+7. Sonja at Cynthia Elliot: call her
+
+*BLOCK 3 — IG DMs + Email (60 min)*
+- 8-10 IG DMs to women's fashion Shopify stores (founder name + specific detail)
+- 4-5 cold emails (subject = their store name)
+- Lead with returns/fit problem, not product
+- Finally send Crystal Sands (Dutch founder DM), Morning Lavender, Defiant
+
+*BLOCK 4 — Sharpen the Saw (30 min)*
+- Answer the two questions above honestly
+- Identify THE ONE bottleneck for the 7-day blackout (be specific — "I was busy" doesn't count)
+- Tomorrow's #1 priority
+- Spot-check leads.csv on GitHub
+
+*📋 LEAD-TRACKER UPDATED*
+Pushed leads.csv (commit 4d69aa8). Bumped all 10 stale-day counters by one: Marcos 7d skipped, Lindsay 11d, World's Need 11d, Lily Claire 7d (now cold), Crystal Sands 12d, Defiant 10d, Morning Lavender 12d, Karadise/Ella Bleu/Hemline callbacks all 7d late ("treat as fresh cold open"), Sarah/Willow House email 7d late ("warmth is gone, send with apology"), Cynthia Elliot Sonja callback 3d late, Distinctively Her note updated to "Dawn back in store TODAY — email her NOW." No new rows.
+
+*Reply tonight — no negotiating the targets, no half-answers:*
+TikToks: __/3 | TT comments: __/30 | IG DMs: __/10 | Emails: __/5 | Replies: __ | Meetings: __ | Bottleneck: __
+
+Plus: (1) what happened the last 7 days, (2) are you still in this sprint, yes or no.
+
+⚙️ FYI: the sandbox's commit-signing wrapper threw 400s this session, so today's leads.csv commit and this send went out unsigned. Doesn't affect content. Will retry signed tomorrow.
