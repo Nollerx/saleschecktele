@@ -1,0 +1,57 @@
+*VTO SALES SPRINT — DAY 17 — 2026-05-29*
+
+⛔ NO REPORT. Again. Your last Telegram message was 2026-05-20 — *9 days of silence*. That's not a missed day, that's a missed week and a half of a 110-day sprint you put $10K MRR on. Day 17 of 110, and you've gone dark for 8% of the entire sprint window in one stretch.
+
+You said: founder selling VTO to women's fashion brands on Shopify. Going silent for 9 days is what "the dev" does. What happened? Were you dev-coping? Stuck? Avoiding? I need a real answer before Block 1, not a brush-off.
+
+Day 1 reset. No negotiating numbers down to "catch up" — just hit today's bar today.
+
+⚠️ *COLD-LEAD WARNINGS — every warm lead you had is now ice*
+- *Marcos Rivera (Kaizen, In Trial — your only paying customer)* — 5/22 drop status STILL unknown 9 days later. The case study you said would unlock everything else. Confirm TODAY or it's a write-off.
+- *Lindsay Corrigan (agency partner, New Reply)* — 13 days no follow-up. Highest-leverage lead on the board, going to zero.
+- *World's Need Fashion (Call Pending)* — 13 days, said yes to a call you never booked.
+- *Lily Claire (Interested - Stalled)* — 9 days silent after she apologized for the delay.
+- *Sarah / Willow House* — 8 days. She was warm and familiar with Amazon VTO. Call her, not Emma.
+- *Cynthia Elliot* — Sonja (clerk) is warm; owner email 9 days no reply; the 5/24 fallback callback you scheduled is now 5 days late.
+- *Karadise (Maddlyn), Ella Bleu (Milissa), Hemline Fort Worth (Ava Lesly)* — three scheduled callbacks, all 9 days skipped. Treat as cold reopens.
+- *Distinctively Her* — Dawn was supposed to be back in store 5/27. Email her TODAY.
+- *Crystal Sands, Morning Lavender, Defiant Boutique* — founder DMs still not sent 11–14 days after flagging.
+- *AVALlA* — re-engagement post 9 days, no reply.
+
+📅 *CALENDAR* — ⚠️ couldn't read calendar today (no Calendar MCP in this env). You tell me: any meetings on the books for today or tomorrow? If yes, name them in your reply.
+
+📌 *DUE ACTION TODAY (from leads.csv)*
+- *Flea Style (The Star)* — Next Action Date is literally today, 5/29. info@ silent 8 days. Walk back in or call the store and ask for the buyer by name. Don't email info@ again — it's a black hole.
+
+*BLOCK 1 — TikTok (90 min) — PRIMARY*
+- Post 2-3 TikToks (VTO demos on real garments, behind-scenes, store wins). You said on 5/20 you "haven't made TikToks yet." Make them today.
+- Engage on 30 women's fashion / Shopify creator comments
+- Reply to all comments on your own videos within 24h
+- Any commenter who runs a store → add to leads.csv
+
+*BLOCK 2 — Warm Leads + Calendar (60 min) — TRIAGE THE COLD LIST*
+Pick the top 5 from the warning list above and actually touch them today. Suggested priority:
+  1. Marcos (Kaizen) — confirm the drop, get the case study
+  2. Lindsay Corrigan — qualifier + Calendly, agency-partner pitch
+  3. Sarah (Willow House) — phone call, ask if Emma got the email
+  4. Flea Style — walk-in or call, ask for the buyer by name (due today)
+  5. Cynthia Elliot — call Sonja back, she's your inside advocate
+Then 1 local boutique walk-in this week.
+
+*BLOCK 3 — IG DMs + Email (60 min)*
+- 8-10 IG DMs to women's fashion Shopify stores (founder name + specific store detail)
+- 4-5 cold emails (subject line = their store name)
+- Send the founder DMs you've been sitting on: Crystal Sands (Dutch template), Morning Lavender, Defiant Boutique
+- Lead with returns/fit problem, not product
+
+*BLOCK 4 — Sharpen the Saw (30 min)*
+- Write down WHY you went dark 9 days. Not an excuse — the real reason. That's the bottleneck.
+- Tomorrow's #1 priority
+- Spot-check leads.csv on GitHub
+
+📋 *LEAD-TRACKER UPDATED (2026-05-29 commit)* — no movements to record (no report from you), but I bumped the staleness counters on every cold lead: Marcos (9d), Lindsay (13d), WNF (13d), Lily (9d), Crystal Sands (14d), Defiant (11d), Morning Lavender (14d), Karadise (9d), Cynthia Elliot (9d, fallback 5d late), Distinctively Her (2d late on Dawn email), Ella Bleu (9d), Willow House (8d), Hemline (9d), Flea Style (8d, due today). Reality check: every warm lead from 5/20 is now cold.
+
+*Reply tonight:*
+TikToks: __/3 | TT comments: __/30 | IG DMs: __/10 | Emails: __/5 | Replies: __ | Meetings: __ | Bottleneck: __
+
+And answer the question: what happened the last 9 days?
