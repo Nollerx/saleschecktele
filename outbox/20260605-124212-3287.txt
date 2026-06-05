@@ -1,0 +1,57 @@
+*VTO SALES SPRINT — DAY 24 — 2026-06-05*
+
+You went dark on 2026-05-20. That is *16 days of silence* on a 110-day sprint. MRR is still $0. Roughly 26% of the sprint is gone with zero numbers reported and — judging by leads.csv — zero touches on warm leads since May 20-21.
+
+This is not a slip. This is the sprint quietly dying. You are the founder selling VTO to women's fashion brands on Shopify. Not the dev. Not "busy with other stuff." If something real happened (sick, family, travel), say so today. If you just stopped, also say so. Either way we reset on TODAY.
+
+No negotiating targets down. No "I'll catch up tomorrow." Block 1 starts whenever you read this.
+
+⚠️ *COLD-LEAD WARNINGS — every lead in the tracker is 15-21 days cold*
+- *Marcos Rivera (In Trial — your only paying customer)*: 22nd drop status STILL unknown after 16 days. Trial customer effectively cold. Confirm TODAY or write off.
+- *Lindsay Corrigan (New Reply — agency partner, highest-leverage lead in the file)*: 20 days no follow-up. Send qualifier + Calendly today or formally write off.
+- *World's Need Fashion (Call Pending — said yes to a call)*: 20 days untouched. Send Calendly today or write off.
+- *Lily Claire (Interested - Stalled)*: was warm, 16 days silent. Nudge today.
+- *Cynthia Elliot Boutique*: owner emailed 5/20 — no reply in 16 days. Call Sonja (clerk, warm) TODAY as fallback.
+- *Willow House (Sarah)*: 15 days no reply on Emma. Call Sarah back TODAY.
+- *Distinctively Her (Dawn)*: she's back in store since 5/27. Email is 9 days late.
+- *Karadise, Ella Bleu, Hemline Fort Worth*: all callbacks 16 days late. Re-open cold today.
+- *Flea Style (walk-in lead)*: 15 days, walk-back 7 days overdue. Highest MRR ceiling outside Marcos.
+
+📅 *CALENDAR*
+⚠️ Couldn't read calendar today (Calendar MCP not connected in this session). If you have any sales meeting today/tomorrow, tell me and I'll add it to Block 2.
+
+*BLOCK 1 — TikTok (90 min) — PRIMARY*
+- Post 2-3 TikToks (VTO demos on real garments, behind-scenes, store wins)
+- Engage on 30 women's fashion / Shopify creator comments
+- Reply to all comments on your own videos within 24h
+- Save any commenter who runs a store → add to Lead-Tracker
+
+*BLOCK 2 — Warm Leads + Calendar (60 min) — TODAY IS A SALVAGE OP*
+- Marcos: chase the drop status, get the case study or close the trial
+- Lindsay Corrigan: agency qualifier + Calendly link
+- World's Need Fashion: Calendly link
+- Sonja @ Cynthia Elliot: callback
+- Sarah @ Willow House: callback
+- Dawn @ Distinctively Her: send the email
+- Re-open the cold-call callbacks: Maddlyn (Karadise), Milissa (Ella Bleu), Ava Lesly (Hemline)
+- 1 local boutique walk-in (today or scheduled this week)
+
+*BLOCK 3 — IG DMs + Email (60 min)*
+- 8-10 IG DMs to women's fashion Shopify stores (founder name + specific detail)
+- 4-5 cold emails (subject = their store name)
+- Lead with returns/fit problem, not product
+- Send the Crystal Sands Dutch founder DM (21 days overdue)
+- Send the Morning Lavender founder DM (21 days overdue)
+- Send the Defiant Boutique founder DM (18 days overdue)
+
+*BLOCK 4 — Sharpen the Saw (30 min)*
+- Tell me honestly what happened the last 16 days
+- Identify THE ONE bottleneck that stopped you reporting (it's almost never time)
+- Tomorrow's #1 priority
+- Spot-check leads.csv on GitHub — flag anything the routine got wrong
+
+📋 *LEAD-TRACKER UPDATED*
+Refreshed day-counts on all 18 rows to reflect today (6/5). No status moves — you touched nothing since 5/21. Pushed to main.
+
+*Reply tonight:*
+TikToks: __/3 | TT comments: __/30 | IG DMs: __/10 | Emails: __/5 | Replies: __ | Meetings: __ | Bottleneck: __
