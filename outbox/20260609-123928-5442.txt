@@ -1,0 +1,68 @@
+*VTO SALES SPRINT — DAY 28 — 2026-06-09*
+
+Andrew. Two days ago I sent you a hard wake-up. You did not reply on Telegram. That's not the issue — the issue is *Gmail shows you sent zero sales emails 6/6, 6/7, 6/8, and so far 6/9*. Last outbound was 6/5 to Greta. Inbound replies from your 6/3 cold-emails: zero — Two Birds, Flock Boston, Shop Crush, all silent.
+
+The one thing that *did* hit your calendar yesterday (6/8 11:30am CDT) was the Seqora call — Gabriel selling AI *to you*. That's the exact distraction I flagged 48 hours ago and you kept it.
+
+You are 28 days into a 110-day sprint. Real MRR: $0. Last Telegram report: Day 8. Last outbound sales action: Day 24. The math no longer works at this pace. *Not "you're behind." "The sprint is failing."* The fix is not a longer to-do list. The fix is one full sales day, today, with metrics back in this chat tonight.
+
+⚠️ *COLD-LEAD WARNINGS — read this before Block 1*
+- *Marcos / Kaizen* — your ONLY paying customer. 20 days silent, drop status still unknown, 6/7 directive ignored. *Marked effectively dead.* Call him this morning or formally write him off in the tracker.
+- *Gina / Heart & Soul Boston* — you told her you'd send a follow-up; both emails bounced 6/3; you have not called her back. From her side you ghosted after a good call. Call her TODAY before she forgets the conversation entirely.
+- *Greta / East Coast Ivy* — 4 days no reply to your 6/5 follow-up. Best warm lead in the pipeline. If silent by tomorrow, pick up the phone — don't wait for her.
+- *Lindsay Corrigan* — agency partner, highest leverage in the whole tracker. 24 days, two ignored directives. DM today or move her to Dead at end of day.
+- *World's Need Fashion + Lily Claire* — I just marked both Dead. They said yes 5/16 and 5/20 and you let them rot. Resurrect with a "sorry I went quiet" DM today or leave them gone.
+- *May 20 cold-call cohort* (Karadise, Ella Bleu, Hemline, Cynthia Elliot, Distinctively Her, Willow House) — every callback 18 days overdue. Treat as fresh cold opens.
+- *Brady Dickson* — Calendly inbound, call was 6/3, you have not logged the outcome or sent a recap. He self-qualified. Log it and recap him today.
+
+📅 *CALENDAR (couldn't read Calendar MCP — pulled from Gmail)*
+- *Yesterday 6/8 11:30am:* Seqora discovery call — you kept it after I told you to kill it. What did 30 minutes of being pitched AI buy you?
+- No outbound sales meetings on the calendar this week from what Gmail shows. That's a Block 2 problem to fix today.
+
+*BLOCK 1 — TikTok (90 min) — PRIMARY*
+- Post 2-3 TikToks (VTO demos on real garments, behind-the-scenes from your cold-call tour, store wins)
+- 30 comments on women's fashion / Shopify creators
+- Reply to all comments on your own videos within 24h
+- Save any commenter who runs a store → add a row to leads.csv
+- Honest answer in tonight's report: how many TikToks did you actually post in the last 21 days?
+
+*BLOCK 2 — Warm Leads + Calendar (60 min) — HEAVY TODAY*
+- *Call Marcos.* If you can't reach him, write him off in the tracker by EOD.
+- *Call Gina at Heart & Soul Boston.* Get her real email. Salvage the relationship.
+- *Call Sonja at Cynthia Elliot Boutique* (Sonja was warm, the owner email died).
+- *Call Sarah at Willow House.* Re-establish the warmth, ask if Emma got the email.
+- *Brady Dickson* — log the call outcome + send recap.
+- *Lindsay Corrigan DM* — agency-partner pitch + Calendly. Final attempt.
+- *Email Dawn at Distinctively Her* (dawn@distinctivelyhers.com).
+- 1 local boutique walk-in TODAY or schedule one this week.
+
+*BLOCK 3 — IG DMs + Email (60 min)*
+- 8-10 IG DMs to women's fashion Shopify stores (founder name + specific detail from their feed)
+- 4-5 cold emails (subject line = their store name)
+- Lead with returns/fit, not the product
+- *Defiant Boutique + Morning Lavender + Crystal Sands* — flagged 22-25 days ago, still not DMed. Today.
+- *AVALlA* — send the pricing-tiers screenshot you owe her. Final attempt.
+
+*BLOCK 4 — Sharpen the Saw (30 min)*
+- Open leads.csv on GitHub, scan the changes I just made, fix anything wrong
+- Identify THE ONE bottleneck killing your output (be specific — not "time")
+- Tomorrow's #1 priority
+- Real talk with yourself: is reporting hard because the numbers are bad? The numbers being bad is the reason to report. Skipping is the loop that kills the sprint.
+
+📋 *LEAD-TRACKER UPDATED* (committed to repo)
+- Marcos → "In Trial - Effectively Dead", final-attempt call today
+- Lindsay → "New Reply - Cold", final-attempt DM today
+- World's Need Fashion → *Dead* (24 days untouched after they said yes)
+- Lily Claire → *Dead* (20 days silent after she said yes)
+- AVALlA → "No Response - Cold", pricing screenshot today or Dead
+- Crystal Sands, Defiant, Morning Lavender → Next Action Date = today
+- Karadise, Ella Bleu, Hemline, Cynthia Elliot, Distinctively Her, Willow House, Flea Style → Next Action Date = today, treat as fresh opens
+- Greta → "Cooling", call store tomorrow if silent
+- Isaiah/StreetMotion → setup-help email due today (no usage signal in 5 days)
+- Gina → re-flagged URGENT, 6/7 directive still un-actioned
+- Brady → recap 6 days overdue
+
+*Reply tonight — not optional:*
+TikToks: __/3 | TT comments: __/30 | IG DMs: __/10 | Emails: __/5 | Replies: __ | Meetings: __ | Bottleneck: __
+
+And the actual bottleneck answer is "I stopped reporting" or "I stopped trying" — don't dress it up. Name it and we fix it tomorrow.
