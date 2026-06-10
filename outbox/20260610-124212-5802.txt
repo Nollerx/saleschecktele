@@ -1,0 +1,63 @@
+*VTO SALES SPRINT — DAY 29 — 2026-06-10*
+
+Andrew. You did *one* thing yesterday: cold-called Sault, got referred to Patrick by Philip, sent a written follow-up at 10:25pm. Good lead, well-written email. That's the only outbound Gmail can see for 6/9, and Telegram is still silent — *23 days since your last actual report.* The wake-up worked enough to get one email out the door. It didn't work enough to fix the loop. One email is not a sales day, it's a token.
+
+The bottleneck I'm naming for you, since you won't: *you are not running the day.* You're firing one shot when the pressure spikes, then disappearing. The fix is dumb and simple — pick up the phone at 9am and don't stop until Block 2 is done.
+
+Also: still no inbound replies. Greta, Two Birds, Flock Boston, Shop Crush, Brady, Marcos — all silent. Greta's 6/10 phone deadline (the one YOU set) is *today.* That call has to happen.
+
+⚠️ *COLD-LEAD WARNINGS — read before Block 1*
+- *Greta / East Coast Ivy* — *call the store today.* You set this deadline yourself last week. 5 days silent on your 6/5 follow-up. Don't email — phone.
+- *Marcos / Kaizen* — 21 days silent, two wake-ups ignored on this exact lead. *Today is final-call day.* If you can't reach him, I write him off in tomorrow's tracker.
+- *Two Birds / Flock Boston / Shop Crush* — your "if no reply by 6/10" deadlines all hit today. Pick up the phone or ping the referrers.
+- *Gina / Heart & Soul Boston* — still ghosted from her side after 6/3 bounced emails. *Two* wake-ups ignored. Call her before she forgets the conversation.
+- *Lindsay Corrigan* — agency partner, 25 days, two ignored directives. Send the DM today or she goes Dead tomorrow.
+- *Brady Dickson* — Calendly inbound, recap email now 7 days overdue. The fastest lead to close because he came to *you*.
+- *May 20 cold-call cohort* (Karadise, Ella Bleu, Cynthia Elliot, Distinctively Her, Willow House, Hemline) — 19 days of skipped callbacks. Fresh cold opens today.
+- *AVALlA* — pricing screenshot. Final attempt or Dead tomorrow.
+
+📅 *CALENDAR*
+- ⚠️ Couldn't read Calendar today (no Calendar MCP in this env). If you have a sales meeting today/tomorrow you haven't prepped, do it in Block 2.
+- Gmail shows no new bookings since the Seqora call. *Empty calendar = Block 2 problem. Fix it.*
+
+*BLOCK 1 — TikTok (90 min) — PRIMARY*
+- Post 2-3 TikToks. Yesterday's email proves you can write founder copy — record one founder-talking-head explaining what Philip at Sault said no to and what made Patrick worth the email.
+- 30 comments on women's fashion / Shopify creators
+- Reply to all comments on your own videos
+- Honest answer tonight: *how many TikToks have you actually posted in the last 21 days?*
+
+*BLOCK 2 — Warm Leads + Phone (60 min) — HEAVY TODAY*
+- *Call Greta.* Today is the deadline you set.
+- *Call Marcos.* Final call. Write him off in the tracker tonight if he doesn't pick up.
+- *Call Two Birds / Flock Boston / Shop Crush* — all 7 days silent, deadlines hit today.
+- *Call Gina at Heart & Soul Boston* — get the real email.
+- *Brady Dickson* — log the call outcome + send recap email. 7 days overdue.
+- *Call back Philip at Sault* if Patrick doesn't reply by EOD — you have the warm relationship.
+- 1 local boutique walk-in TODAY or scheduled this week.
+
+*BLOCK 3 — IG DMs + Email (60 min)*
+- 8-10 IG DMs to women's fashion Shopify stores (founder name + specific feed detail)
+- 4-5 cold emails — match yesterday's Sault email template (specific person, specific detail, ~10 min ask)
+- *Defiant + Morning Lavender + Crystal Sands* — flagged 23-26 days. Today.
+- *AVALlA pricing screenshot* — send it.
+- *Lindsay Corrigan agency DM* — final attempt.
+- *Email Dawn at Distinctively Her* (dawn@distinctivelyhers.com).
+
+*BLOCK 4 — Sharpen the Saw (30 min)*
+- Open leads.csv on GitHub, scan the changes I just pushed
+- *Reply on Telegram tonight.* Not optional. The skipping IS the bottleneck — naming it is step one of fixing it.
+- One sentence: what made yesterday's Sault outreach happen, and what blocks doing 5 of that today?
+
+📋 *LEAD-TRACKER UPDATED* (committed to repo)
+- *NEW: Sault* (Patrick + Philip) — Email Sent, follow up 6/12 if no reply
+- *Marcos* — final-call language, 21 days silent, two wake-ups ignored
+- *Greta* — action upgraded to "CALL TODAY"
+- *Two Birds / Flock Boston / Shop Crush* — deadlines hit, action is now phone/referrer
+- *Brady* — overdue counter bumped to 7 days
+- *Lindsay / AVALlA / Crystal Sands / Defiant / Morning Lavender / Gina + all May 20 callbacks* — Next Action Date pushed to today, day-counters incremented
+- 0 new dead leads (giving you one more day on the borderline ones because you finally moved)
+
+*Reply tonight — non-negotiable:*
+TikToks: __/3 | TT comments: __/30 | IG DMs: __/10 | Emails: __/5 | Replies: __ | Meetings: __ | Bottleneck: __
+
+And the real answer to "Bottleneck:" is "I'm not running my day." Write that, then we fix it tomorrow with a 9am call list.
